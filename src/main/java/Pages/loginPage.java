@@ -57,4 +57,8 @@ public class loginPage {
         return ConfirmLogin.isDisplayed();
 
     }
+
+    public void pTest(){
+        System.out.println("test, test");
+    }
 }
